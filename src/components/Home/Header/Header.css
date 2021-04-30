@@ -1,0 +1,13 @@
+.heading{
+    font-size: 45px;
+    font-weight: 800;
+    color:crimson;
+}
+.header{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIT3dszsx3a3CF3Pm1dT3ONZlnp0s_UGhPVw&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    padding: 0vh 0;
+    text-align: center;
+    position: relative;
+ }
