@@ -39,7 +39,7 @@ const AddService = () => {
             .then(data => {
               if(data){
                 alert('You are added service successfully')
-                history.push('//manageService')
+                history.push('/manageService')
               }
             })
             .catch(error => {
